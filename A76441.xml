@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true confutation of a fals and scandalous pamphlet, entituled, The true state of the case of Sir Iohn Gell lately published to deceiv the people, and to smother Sir John Gell's confederacie with Colonel Andrews and others, under oath of secrecie, to destroie the present government. Or a sober vindication of the Council of State, and High Court of Justice from the impudent aspersions of that pamphlet. Published to undeceiv all the well-affected of this Common-wealth. By John Bernard Gent. captain of a troop of hors in the service of the Parlament.</title>
+            <author>Bernard, John, Capt.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76441</idno>
+            <idno type="STC">Wing B2005</idno>
+            <idno type="STC">Thomason E613_9</idno>
+            <idno type="STC">ESTC R205098</idno>
+            <idno type="EEBO-CITATION">99899984</idno>
+            <idno type="PROQUEST">99899984</idno>
+            <idno type="VID">135374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2490:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true confutation of a fals and scandalous pamphlet, entituled, The true state of the case of Sir Iohn Gell lately published to deceiv the people, and to smother Sir John Gell's confederacie with Colonel Andrews and others, under oath of secrecie, to destroie the present government. Or a sober vindication of the Council of State, and High Court of Justice from the impudent aspersions of that pamphlet. Published to undeceiv all the well-affected of this Common-wealth. By John Bernard Gent. captain of a troop of hors in the service of the Parlament.</title>
+                  <author>Bernard, John, Capt.</author>
+               </titleStmt>
+               <extent>[2], 16, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Will. Du-Gard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "7ber 27".</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gell, John, --  Sir, 1593-1671. --  True state of the case of Sir John Gell --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135374:1" rendition="simple:additions"/>
+            <p> A true CONFUTATION Of a Falſ and ſcandalous Pamphlet, entituled, The true ſtate of the Caſe of Sir Iohn Gell, Lately publiſhed to deceiv the People, and to ſmother Sir <hi>John Gell's</hi> Confederacie with Colonel <hi>Andrews</hi> and others, under Oath of Secrecie, to deſtroie the preſent GOVERNMENT.</p>
+            <p>Or a ſober VINDICATION of the COUNCIL of STATE, and High Court of JUSTICE from the impudent aſperſions of that PAMPHLET.</p>
+            <p>Publiſhed to undeceiv all the well-affected of this COMMON-WEALTH.</p>
+            <p>By <hi>John Bernard</hi> Gent. Captain of a Troop of Horſ in the Service of the Parlament.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Will. Du Gard.</hi> 1650.</p>
+            <pb facs="tcp:135374:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135374:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Pamphlet</hi> wee have to deal with, is a vafrous piece, made up of divers ſorts of Scandals (of things and perſons) ſom pointing directlie at the preſent Go<g ref="char:EOLhyphen"/>vernment, others in a more oblique line. And ſom are the ſcandals of perſons, to leav an <hi>odium</hi> upon particular men. Wee think not to cut our waie through the whole Pamphlet, or follow as it lead's to everie particular page. The chief ſtrength and ſubſtance of the whole lie's in the two firſt pages, wherein the Pamphletier pretend's to give a true ground, or <hi>ſtate of the Caſe of Sir John Gel.</hi> And here wee ſhall laie our batteries, and put it to the iſſue in this ſhort <hi>Anſwer,</hi> whether the Man in this great undertaking deale's indeed trulie, or but prevari<g ref="char:EOLhyphen"/>cate's. The <hi>Argument,</hi> as hee call's it, or <hi>Concluſion</hi> contein's the reſults upon the whole, and his illa<g ref="char:EOLhyphen"/>tions and inferences, which muſt needs bee falſ from falſ premiſes. And it is too great a conceſ<g ref="char:EOLhyphen"/>ſion in anie wiſe man to argue with his Antagoniſt (otherwiſe then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) upon a falſ principle. It is to invert the true rules of Logick, and change all into fallacies. Allow this, and the Sophiſter will conclude the day to bee night, and truth error, and light darkneſs, and turn the honeſteſt man li<g ref="char:EOLhyphen"/>ving with his heels upwards and conclude him a verie knave. I have (the better to enable the Rea<g ref="char:EOLhyphen"/>der
+<pb n="2" facs="tcp:135374:3"/> to a true judgment of the thing in queſtion 'twixt mee and the Pamphletier) diſtinguiſh'd the things contein'd in the two firſt pages with a leſſer Character, and the Anſwer with a greater.</p>
+            <q>Pamphlet. <hi>That</hi> John Bernard, <hi>with one</hi> Pits <hi>(by the name of</hi> Smith) <hi>deſired</hi> M<hi rend="sup">r</hi> Andrews <hi>to join with them in a plot, to ſurpriſe the Iſle of</hi> Ely.</q>
+            <p>
+               <hi>Anſwer.</hi> It is an ill <hi>Omen,</hi> when the man ſtumble's at the threſhold, and offend's againſt the truth at the firſt ſetting out. In his Pamphlet hee ſaye's, that Lievt. <hi>Pit</hi> deſired M<hi rend="sup">r</hi> 
+               <hi>Andrews to join in a plot &amp;c.</hi> It is appeal'd to M<hi rend="sup">r</hi> 
+               <hi>Andrews</hi> himſelf, who in his own Narrative ſent by himſelf to the Council of State, and now remaining with the High Court of Juſtice, ſaie's expreſlie, that Lievtenant <hi>Pit</hi> (whom hee call's there by the name of <hi>Smith)</hi> was an abſolute ſtranger to him (the ſaid <hi>Andrews)</hi> till the 18 of <hi>March</hi> 49, which was (but) 6 or 7 daies before M<hi rend="sup">r</hi> 
+               <hi>Andrew's</hi> apprehenſion at <hi>Graveſend.</hi>
+            </p>
+            <p>And for that of <hi>Iohn Bernard's</hi> beeing charg'd by the Pamphletier to invite Maſter <hi>Andrews to the plot &amp;c.</hi> If Maſter <hi>Andrews</hi> affirm's, and <hi>Iohn Ber<g ref="char:EOLhyphen"/>nard</hi> denie's, and leav the plot where hee found it firſt, to wit, with Maſter <hi>Andrews,</hi> wee ſhall exſpect ſo much juſtice from the un-prejudic'd ſtander by, as to credit rather <hi>Iohn Bernard</hi> (a friend) denying upon his oath, then Maſter <hi>Andrews</hi> (an Enemie) affirming on his bare word.</p>
+            <q>Pam. <hi>That</hi> Andrews <hi>was thought to bee ſomwhat inclinable thereunto:</hi> Bernard <hi>com's to the Lord Pre<g ref="char:EOLhyphen"/>ſident</hi> Bradſhaw, <hi>and acquaint's him with it.</hi>
+            </q>
+            <p>
+               <hi>Anſ.</hi> That Maſter Andrews <hi>was thought &amp;c.</hi> by
+<pb n="3" facs="tcp:135374:3"/> this Pamphletier's leav, it is (more then thought) known, acknowledg'd by Maſter <hi>Andrews</hi> himſelf in the fore-mention'd Narrative, that the plot to ſurpriſe the Iſle of <hi>Fly</hi> was a brat begot of his own brain in the year-44. Maſter <hi>Andrew's</hi> own words are—A <hi>deſign in the time of War laid by mee for the taking of the Iſle of</hi> Ely. It was M<hi rend="sup">r</hi> 
+               <hi>Andrew's</hi> own plot <hi>ab o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o</hi> by his own confeſſion: and however the Pamphletier would dawb it over, and gull the world that M<hi rend="sup">r</hi> 
+               <hi>Andrews</hi> was (but) <hi>thought</hi> to bee ſomwhat <hi>inclinable thereunto,</hi> yet let M<hi rend="sup">r</hi> 
+               <hi>Andrew's</hi> own hand ſpeak his heart in this matter. <q>They are his verie expreſſions to a title all of his own hand<g ref="char:EOLhyphen"/>writing, and at this daie remaining with the High Court of Iuſtice, viz<hi>—I approve the putting of the Reformadoes forward to proſecute the getting of their arrears out of the fines or forfeitures of perſons delin<g ref="char:EOLhyphen"/>quent, but not that they bee further acquainted with the deſign, then to bee readie in general terms when they ſhall ſee cauſ, and the place ſecure to repair to &amp;c. I would that Captain</hi> Iohn B. <hi>go along with mee on Thurſdaie next into C. Shire, and receiv ſa<g ref="char:EOLhyphen"/>tisfaction there concerning the deſign, and to paſs to Sir I. G. and acquaint him with it, and from him again bring to a place which at parting with him I ſhall agree with him upon an aſſurance how far hee will ingage, and how ſoon bee readie. That don I will poſt a ſervant over, or go my ſelf and get out Commiſsions for officers General with power to give Commiſsions to officers in<g ref="char:EOLhyphen"/>ferior, &amp;c To draw in the Reformadoes, they are to bee aſſur'd to have Commſsions anſwerable to their former qualities, and paie as they muſter; to which end an</hi>
+                  <pb n="4" facs="tcp:135374:4" rendition="simple:additions"/> 
+                  <hi>Eſtabliſhment ſhall bee had:</hi> thus M<hi rend="sup">r</hi> 
+                  <hi>Andrews.</hi> And when examin'd upon this paper of his be<g ref="char:EOLhyphen"/>fore the Council of State hee confeſſ<g ref="char:punc">▪</g>d ingenu<g ref="char:EOLhyphen"/>ouſly <hi>that by the deſign (there) ſpoken of, was meant the ſurprizal of the Iſle of</hi> Elie, <hi>and by</hi> Iohn B. Iohn Benſon, <hi>and that by</hi> S<hi rend="sup">r</hi> 
+                  <hi>I<g ref="char:punc">▪</g> G. was meant</hi> S<hi rend="sup">r</hi> 
+                  <hi>Iohn Gell,</hi> though the Pamphletier <hi>would have kept us in the dark as</hi> to all <hi>this,</hi> yet <hi>wee ſee</hi> M<hi rend="sup">r</hi> 
+                  <hi>Andrews</hi> in this far <hi>honester</hi> then the other) deal's more plainly in the matter.</q>
+            </p>
+            <p>But the Pamphletier (now) venture's (impu<g ref="char:EOLhyphen"/>dently enough) upon the Lord Preſident <hi>Bradſhaw,</hi> and there the Shoo wring's extremely. For no fewer then eleven ſeveral times hee bring's this Honorable and publick Miniſter of State upon the Stage. And the Lord Preſident's crime is, that hee entertain'd M<hi rend="sup">r</hi> 
+               <hi>Bernard's</hi> diſcoverie of a real plot to deſtroie the State. The Man's anger is, not that the State is deſign'd upon by evil and unthank<g ref="char:EOLhyphen"/>full men; but hee would have them proſper in their wickedneſs, and it offend's (even to rage) that a<g ref="char:EOLhyphen"/>nie true and faithful patriot ſhould wake and watch in the preſervation of the Common-wealth, and bring to light things that lie hid in darkneſs; other<g ref="char:EOLhyphen"/>wiſe, why not com to the Lord Preſident with our honeſt matters? (ſuch as are diſcoveries of the plots of Knaves upon the State) and why not ac<g ref="char:EOLhyphen"/>quaint him with them? But the Pamphleter's anger is ſtill and his fellows, that there are in the Land, Courts of Juſtice and publick Miniſters to puniſh Treaſons and Rebellions, and the wicked actings of men againſt the State. It bring's to remembrance
+<pb n="5" facs="tcp:135374:4" rendition="simple:additions"/> a pleaſant ſtorie of a famous Thief in Queen <hi>Eliſa<g ref="char:EOLhyphen"/>beth's</hi> daies, that Petition'd the Queen for the good behavior againſt the Lord Chief-Juſtice <hi>Popham,</hi> becauſ hee ſought his life in all places, and hee went in danger of him (continually) for his life. May bee wee ſhall have S<hi rend="sup">r</hi> 
+               <hi>Iohn Gell's</hi> friends (ſuch as this Pamphletier and others) Petition for the good behavior againſt the Council of State and High Court of Juſtice, becauſ in all their treache<g ref="char:EOLhyphen"/>rous deſigns upon the State, they go in danger of their lives.</p>
+            <q>Pam. <hi>The Lord Preſident bid's</hi> Bernard <hi>go forward with the plot, as</hi> Bernard <hi>declare's in Court at the trial of</hi> Andrews.</q>
+            <p>
+               <hi>Anſw.</hi> Not an honeſt man but will ſay it was the dutie of the Lord Preſident and Council of State, and their Honor both to intend the good and ſafe<g ref="char:EOLhyphen"/>tie of the publick, and to that end to <hi>bid</hi> and incou<g ref="char:EOLhyphen"/>rage <hi>Bernard</hi> to purſue the treacherous plot to a full diſcoverie. And <hi>Bernard</hi> declare's (not <hi>in Court</hi> onely, but) again and again in his Vindication (here) that (beſides the Lord Preſident and Council of State) Hee had the incouragement of divers others, friends and true lovers of this Com<g ref="char:EOLhyphen"/>mon wealth, to follow cloſe and not give over to ſound the plot (for it lay deep) to the verie bot<g ref="char:EOLhyphen"/>tom.</p>
+            <q>Pam. <hi>That</hi> Bernard <hi>did go again with</hi> Pitts <hi>to</hi> An<g ref="char:EOLhyphen"/>drews, <hi>and told him that if hee would draw an Oath of ſecreſie and ſign and ſeal the ſame, then</hi> Bernard <hi>would help him to</hi> 200 l. <hi>to bear his charges beyond Sea, to get Commiſsions to raiſ men for the effecting the ſaid plot.</hi>
+               <pb n="6" facs="tcp:135374:5"/> 
+               <hi>And that both</hi> Bernard <hi>and</hi> Pitts, <hi>did promiſe to ſign and ſeal the Oath of ſecreſie likewiſe.</hi>
+            </q>
+            <p>
+               <hi>Anſw. That</hi> Bernard <hi>did go again with Pitts &amp;c.</hi> Still the ſuppoſition is falſ of the acquaintance (to anie proportion of time) betwixt Lievt. <hi>Pitts</hi> and Maſter <hi>Andrews,</hi> when <hi>Pitts</hi> was not known to him (as before atteſted from <hi>Andrew's's</hi> own mouth) till within ſix or ſeven daies of his apprehenſion at <hi>Graveſend.</hi> The other things charged by the, Pamphletier, <hi>viz.</hi> of <hi>Bernards</hi> helping <hi>Andrews</hi> to 200 <hi>l.</hi> and <hi>Bernard</hi> and <hi>Pitts</hi> promiſing to ſign the Oath of ſecrecie, it is referr'd to <hi>Bernard's</hi> Remon<g ref="char:EOLhyphen"/>ſtrance of <hi>Sept.</hi> 10. now publiſhed in print, where 'tis ſpoken in this particular to full ſatiſfaction.</p>
+            <q>Pamph. <hi>That</hi> Andrews <hi>beeing in neceſsitie, upon</hi> Bernard's <hi>motion did ſign and ſeal the Oath aforeſaid.</hi>
+            </q>
+            <p>
+               <hi>Anſw.</hi> It is the firſt truth wee have obtain'd of the Pamphletier ſince wee met, that <hi>Andrews</hi> ſign'd and ſeal'd the Oath. And becauſ the bringing this dark and wicked plot to light is grudg'd at ſo gene<g ref="char:EOLhyphen"/>rally, and the thing chriſten'd by the Pamphletier (pag. 7.) by the prettie names of <hi>Fantaſie,</hi> and <hi>Fi<g ref="char:EOLhyphen"/>ction,</hi> and <hi>Plaie,</hi> I ſhall preſent you with the Oath it ſelf, or Ingagement (a true Copie of it <hi>ad ver<g ref="char:EOLhyphen"/>bum)</hi> extracted out of the Original, now with the High Court of Juſtice, <hi>viz.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>WEE the Subſcribers, (having firſt taken our voluntarie oath upon the holie Evangeliſts, to bee true, faithful, and ſecret each to other, in, and con<g ref="char:EOLhyphen"/>cerning our ſubſequent Ingagement; and not to impart the ſame, nor anie the deſigns whatſoëver in order to</hi>
+                  <pb n="7" facs="tcp:135374:5"/> 
+                  <hi>the execution of the ſame, propoſed, and to bee here<g ref="char:EOLhyphen"/>after enterprized to anie perſon (King</hi> Charls <hi>and the Lord</hi> Hopton <hi>excepted) but under the l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke oath of ſecrecie, do ſolemnly vow and proteſt in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> preſence of God almight<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, That wee will do and uſe all our poſsi<g ref="char:EOLhyphen"/>ble kill and endeavor (though to the hazard of our lives and fortunes) to ſettle and establ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harls <hi>the ſecond, our rightful and law<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ul Prin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, in his thron<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of</hi> England, <hi>againſt all Rebels, uſurpers, or oppoſers what<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ëver. Signed with our hands, and ſealed with our ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>als</hi> Decimo Octavo Martii, ſecundo Caroli ſe<g ref="char:EOLhyphen"/>cundi An. Dom. 1649.</q>
+            </p>
+            <p>This is the Oath or Ingagement <hi>aliàs</hi> the Pamph<g ref="char:EOLhyphen"/>letiers <hi>plaie, phantaſie, fiction</hi> to lead in to the plot laid not ſo much for the Iſle of <hi>Ely,</hi> and <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yn,</hi> and <hi>Yar<g ref="char:EOLhyphen"/>mouth,</hi> as for the ruine of the whole N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, Par<g ref="char:EOLhyphen"/>lament, Council, Soldierie, Government and all; and introducing a ſtrange thing, a ſtranger King amongſt us. It is left to everie man (not poiſon'd with this Pamphletier<g ref="char:punc">▪</g>s principles) to make a judgment of this <hi>oath,</hi> whether perſons that can lodg ſuch vipers in their boſoms, walk wich ſuch killing daggers in their heads, that meditate nothing but murders, and the ſlaughters of the beſt friends of this Common-wealth, ought to bee tolerated with us, and not rather to bee caſt forth (at leaſt) and proſcrib'd, both they the wretched Autors of theſe things, and all that adhere to them, and plead for them, though under the moſt ſpecious
+<pb n="8" facs="tcp:135374:6"/> pretences whatſoëver. But the Pamphletier tell's, That <hi>Andrews his neceſsitie did provoke to this oath,</hi> (as if there were a neceſſitie of doing evil) and that <hi>Bernard</hi> wrought upon this neceſſitie, and mov'd <hi>Andrews</hi> to the thing. For the truth of this wee ſhall appeal to no other witneſs then <hi>Andrews</hi> him<g ref="char:EOLhyphen"/>ſelf, in his own Narrative ſent from the Gatehouſ to the Council of State. <q>His words are: <hi>About nine a clock of night</hi> March 19. 1649. <hi>I was ſent for by Captain</hi> Aſhley <hi>and</hi> Benſon <hi>to ſubſcribe the In<g ref="char:EOLhyphen"/>gagement which</hi> Benſon <hi>had ingroſs'd.</hi> Again, in his Examination taken before the Council of State, the ſaid Maſter <hi>Andrews</hi> confeſſeth thus expreſly: <hi>That his hand and ſeal was to the parchment Ingagement (then) ſhew'd to him (which was upon the</hi> 19 <hi>of</hi> March, 1649.) <hi>at a cook's ſhop neer Tower hill, where</hi> Aſhley <hi>and</hi> Benſon <hi>then alſo ſign'd and ſeal'd, and all thoſe took the oath of ſecrecie.</hi>
+               </q> Here wee finde <hi>Aſhley</hi> and <hi>Benſon</hi> (by <hi>Andrews's</hi> own free confeſſion) but no <hi>Bernard</hi> moving or inviting (in the leaſt) to the Ingagement. And for <hi>Bernard's</hi> ſigning this Ingagement (for oath of ſecrecie nor hee, nor Lieut. <hi>Pitts</hi> did ever enter into) hee refer's to his Remonſtrance of <hi>Sept.</hi> 10. 1650.</p>
+            <q>Pamph. <hi>That</hi> Bernard <hi>and</hi> Smith <hi>did ſign and ſeal the oath alſo.</hi>
+            </q>
+            <p>
+               <hi>Anſw.</hi> And for this likewiſe wee refer to our Remonſtrance above mentioned.</p>
+            <q>Pamp. <hi>Then</hi> Bernard <hi>deſir'd</hi> Andrews <hi>to write a Letter to ſom perſons of note to ſubſcribe the oath.</hi> An<g ref="char:EOLhyphen"/>drews
+<pb n="9" facs="tcp:135374:6"/> 
+               <hi>thereupon write's a Letter directed to Sir</hi> Iohn Baronet.</q>
+            <p>
+               <hi>Anſ. Andrews</hi> himſelf ſaye's otherwiſe, that not at the requeſt or inſtigation of <hi>Bernard,</hi> but hee wrote his Letter to Sir <hi>Iohn Gell</hi> upon a Letter hee receiv'd from <hi>Benſon</hi> to invite to that purpoſe. This Maſter <hi>Andrews</hi> confeſſeth at large in his own Narrative ſent from the Gate-houſ (beſides <hi>Benſon's</hi> confeſſion, now upon record, of the verie ſamething.) More<g ref="char:EOLhyphen"/>over, <hi>Andrews</hi> ſaith in that verie Narrative that the Letter here directed to Sir <hi>Iohn</hi> Baronet (with a blank, hee intended it verilie to Sir <hi>Iohn Gell,</hi> onely left out the name <hi>Gell</hi> for a blind in caſe of ſurpriſal. Here <hi>Andrews</hi> himſelf ſpeak's his own ſenſ in his own words.—<q>
+                  <hi>Hee wrote a Letter from New Inne at Graveſend to to Sir</hi> Iohn Gell <hi>which hee ſent by Mr</hi> Bernard, <hi>and that hee believe's the paper now ſubſcribed by the now Examiners di<g ref="char:EOLhyphen"/>rected for Sir</hi> Iohn (with a blank) <hi>Baronet is a true copie thereof; and that the Blank was intended for</hi> Gell, which was ſo adviſed, leſt the Letter ſhould bee ſurpriſed.</q> All this is confeſſed by <hi>Andrews</hi> himſelf in his examination taken before the Coun<g ref="char:EOLhyphen"/>cil of State; beſides that hee ſaie's in his Narrative (to the very ſame purpoſe) ſent from the Gate<g ref="char:EOLhyphen"/>houſ.</p>
+            <q>Pam. <hi>That aſſoon as this was don,</hi> Bernard <hi>had offi<g ref="char:EOLhyphen"/>cers readie, ſeized on Andrews for High Treaſon, and then bring's the Letter directed to Sir</hi> Iohn Baronet <hi>to the Lord Preſident</hi> Braſhaw.</q>
+            <pb n="10" facs="tcp:135374:7"/>
+            <p> 
+               <hi>Anſw.</hi> The man is wide of the thing, and (ſtill) report's falſlie. <hi>Bernard</hi> had not officers readie, nor was <hi>Andrews</hi> ſeized upon aſſoon as hee had fi<g ref="char:EOLhyphen"/>niſhed his letter to Sir <hi>Iohn Gell;</hi> for the letter was wrott on Friday, March 22. 49. And <hi>Andrews</hi> not ſeiz'd on till the Mundaie following. But it ſtill troubl'es the Pamphletiers ſpirit, that <hi>Bernard</hi> ſhould carrie <hi>Letter, d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rected to Sir</hi> Iohn <hi>Ba<g ref="char:EOLhyphen"/>ronet, to the Lord Preſident</hi> Bradſhaw<g ref="char:punc">▪</g> So then if it can bee made appear that <hi>Bernard</hi> did not carrie this Letter to the Lord Preſident (as indeed hee did not) wee hope this will cure him of his evil ſpirit; Trulie no, the Man's deſign is upon the Lord Pre<g ref="char:EOLhyphen"/>ſident ſtill, and hee care's not who ſcape, ſo his venemous pen faſten's there. But admit the Letter had been carri'd to the Lord Preſident (as it was not, but preſented to the Council of State by the hand of Maſter <hi>Legate.)</hi> Surelie the inference muſt bee an argument of the care and watchfulneſs of the Lord Preſident, and his faithfulneſs to his truſt, to diſ<g ref="char:EOLhyphen"/>cover enemies, and ſecure friends, and ſeek the welfare of a poor Nation.</p>
+            <q>Pam. <hi>That the Lord Preſident kept the Letter, and lets</hi> Bernard <hi>and</hi> Pits <hi>have a copie of it.</hi>
+            </q>
+            <p>
+               <hi>Anſ.</hi> In this the Pamphletier ſpeak's moſt impu<g ref="char:EOLhyphen"/>dentlie falſlie—<hi>that the Lord Preſident kept the Let<g ref="char:EOLhyphen"/>ter;</hi> for the Lord Preſident did not keep the Letter; nor had <hi>Bernard</hi> and <hi>Pits</hi> a copie of it. This is the verie truth, and to give undoubted witneſs to it, call forth Maſter <hi>Andrews</hi> (once more) to repeat his examination
+<pb n="11" facs="tcp:135374:7"/> taken before the Council of State; his con<g ref="char:EOLhyphen"/>feſſion is thus to a ſyllable, viz. <q>
+                  <hi>That hee wrote a Letter from New Inne at Graveſend to Sir</hi> Iohn Gell <hi>which hee ſent by Maſter</hi> Bernard; <hi>and that hee be<g ref="char:EOLhyphen"/>leeve's, the paper now ſubſcribed by the Examiners directed for Sir</hi> Iohn <hi>(with a blank) Baronet is a true copie thereof, and that the blanck was intended for</hi> Gell; <hi>which was ſo adviſed leaſt the Letter ſhould bee ſurpriz'd.</hi>
+               </q>
+            </p>
+            <p>In this verie confeſſion wee have a candle of Ma<g ref="char:EOLhyphen"/>ſter <hi>Andrew's</hi>'s own lighting, to diſcover whether the Letter (ſhewed to him by the Council of State at the time of his Examination) was the original Letter hee writ from <hi>Graveſend</hi> to Sir <hi>John Gell,</hi> or (but) a copie of it. Maſter <hi>Andrew's's</hi> Anſwer in the Caſe is moſt poſitive, and without the leaſt he<g ref="char:EOLhyphen"/>ſitation, to wit, that hee believ's that the Paper ſhewed to him by the Council of State, directed for Sir <hi>John</hi> (with a blank Baronet) is a true <hi>Copie</hi> thereof. If a true <hi>Copie,</hi> then not the <hi>Original,</hi> as is moſt falſly, and with malice enough, charged upon the Lord Preſident, to wit, that hee kept the original Letter in his own hand, and deliver'd <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> but) a Copie to carrie to Sir <hi>Iohn Gell,</hi> when <hi>Andrew's</hi> himſelf confeſſe's the clean contrarie, <hi>viz.</hi> That the Letter ſhew'd to him by the Council of State was the ſame (indeed) for matter with that hee wrote to Sir <hi>Iohn Gell,</hi> but not the ſame original and numerical Letter. Maſter <hi>Andrews</hi> himſelf, in the preſence of manie Honorable witneſſes, ac<g ref="char:EOLhyphen"/>knowledging
+<pb n="12" facs="tcp:135374:8"/> it no more then a Copie. Now if the Pamphletier ſtill hold's of the minde that the Original Letter (for all this) is with the Council of State, or with the Lord Preſident, Maſter <hi>Andrews</hi> (his friend) tell's him to his face hee ſpeak's falſely, there's no <hi>original</hi> Letter there, nothing but a <hi>Copie.</hi> Or if Sir <hi>Iohn Gell</hi> can tell tidings of this Letter (ſo much controverted) (and ſuch a thing hee did inſi<g ref="char:EOLhyphen"/>nuate to the High Court at his Trial) hee ſhould do well to produce it; but this is one of Sir <hi>Iohn Gell's</hi> tricks of <hi>Legerdemain</hi> and his complices, to ſaie and unſaie, to boaſt of great matters, but <hi>naſcitur mus.</hi> If Sir <hi>Iohn</hi> know's of this Letter, as hee would make all men believ, let him bring it forth that wee maie believ him at leaſt in this, to bee no hypocrite and Impoſtor-</p>
+            <q>Pamph. <hi>That</hi> Bernard <hi>and</hi> Pitts <hi>bring's the Copie, as they ſaie, to Sir</hi> John Gell.</q>
+            <p>
+               <hi>Anſw.</hi> Surely this man will never ſpeak true a<g ref="char:EOLhyphen"/>gain<g ref="char:punc">▪</g> twice Maſter <hi>Andrews</hi> hath told him (if hee can believ a man of his own Religion) that the Co<g ref="char:EOLhyphen"/>pie of the Letter was left with the Council of State, and yet <hi>(nolit velit veritas)</hi> hee will have <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> and <hi>Pitts</hi> bring this Copie (not the Original, but) the Copie of it to Sir <hi>John Gell.</hi> Beſides hee tell's in his Pamphlet, <hi>that</hi> Bernard <hi>and</hi> Pits <hi>brought the Copie (as they ſaie.)</hi> Who wiil believ this man, if ever hee ſhould ſpeak true again, that drive's a full trade of verie tales. Bernard <hi>and</hi> Pits <hi>brought the copie to Sir</hi> John Gell, there's one; and <hi>they ſaie</hi>
+               <pb n="13" facs="tcp:135374:8"/> 
+               <hi>ſo,</hi> there's another. I think 'twere good this ſame copie of Maſter <hi>Andrews's</hi> Letter were hang'd up in <hi>Weſtminſter</hi> Hall amongſt the Scotch Clouts, to convince this Pamphletier and all his fellow infi<g ref="char:EOLhyphen"/>dels, thar there it is.</p>
+            <q>
+               <hi>Pamph.</hi> That <hi>Bernard</hi> and <hi>Pitts</hi> both ſaie, Sir <hi>John Gell</hi> did refuſe to act in the ſame plot, and ſo burnt the Letter.</q>
+            <p>Anſw. Bernard <hi>and</hi> Pitts <hi>ſaie ſtill (even what this Pamphletier pleaſe's) but it will prove a queſtion ſhortly, how Sir</hi> Iohn Gell, <hi>upon the deliverie of the Letter to him, ſhould (all) on the ſudden refuſe to act in a plot hee had waded in ſom moneths with ſo much zeal. Let</hi> Andrews <hi>bee heard ſpeak to clear the thing, the verie words in his own Narra<g ref="char:EOLhyphen"/>tive ſent from the Gatehouſ, are theſe, viz.</hi> 
+               <q>About the midst of <hi>December</hi> 49. I was invited to give <hi>S<hi rend="sup">r</hi>
+                  </hi> Iohn Gell a meeting, and amongſt other diſcourſes, <hi>S<hi rend="sup">r</hi>
+                  </hi> Iohn Gell did take notice of his irrequital for his ſervice and his loſſes, and the miſapplication of his and other's ſervices to an end they intended not, <hi>and</hi> that hee deſired to bee ſo understood, and when oppor<g ref="char:EOLhyphen"/>tunitie ſhould bee, to bee ſo repreſented to the Prince, and did intimate, that if ever hee took up arms again, it ſhould bee for the Prince, <hi>and at</hi> ſeveral other ſubſe<g ref="char:EOLhyphen"/>quent meetings the diſcourſes <hi>were</hi> general, and much to this purpoſe.</q>
+            </p>
+            <p>
+               <hi>And again in Mr</hi> Andrews's <hi>examination taken by the Council of State, hee confeſſeth verie di<g ref="char:EOLhyphen"/>ſtinctly thus,</hi> 
+               <q>viz. that S<hi rend="sup">r</hi> John Gell complain'd, hee
+<pb n="14" facs="tcp:135374:9"/> had not his pay, nor was conſider'd for his ſervice, and that hee intended not the end that was now brought a<g ref="char:EOLhyphen"/>bout, and desired to bee ſo unde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtood by the King; <hi>And</hi> that the Examinant, upon opportun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tie, ſhould ſo repreſent it, and his w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llingneſs to do the King ſervice. <hi>Mr</hi> Andrews <hi>ſaith further in the ſame Examination, that S<hi rend="sup">r</hi>
+                  </hi> Iohn Gell had twice or thrice in <hi>March</hi> laſt beſpoken him to beget a good opinion of him in the King; <hi>And</hi> was not ſatisfied in the waie hee had taken formerly, and that hee was ſorrie for what hee had don againſt his Father, and if the King <hi>ſhould hear</hi> hee was in arms, <hi>it</hi> ſhould bee <hi>upon</hi> his ſcore. <hi>One thing more yet M<hi rend="sup">r</hi>
+                  </hi> Andrews's <hi>will tell us concerning this matter of S<hi rend="sup">r</hi>
+                  </hi> Iohn Gell's <hi>refuſing to act in the plo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, how unlikely it is. The words in M<hi rend="sup">r</hi>
+                  </hi> An<g ref="char:EOLhyphen"/>drews's <hi>own Narrative ſent from the Gate houſ are theſe to a tittle, viz.</hi> Wedneſdaie 20. <hi>March</hi> laſt I wrote to <hi>Sr</hi> Iohn Gell to meet mee at dinner, hee promiſed to com, but came not, and ſent his man to ex<g ref="char:EOLhyphen"/>cuſe him and defray the charge, and that afternoon I ſaw him by chance, and hee told mee that hee had not ſubſcribed, nor would, but what hee had ſaid to mee as touching his realitie to the Prince, I might ing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge my ſelf for.</q> 
+               <hi>Now put all altogether, and then let mee ask the Pamphletier what hee thinke's of S<hi rend="sup">r</hi>
+               </hi> Iohn Gell's <hi>refuſing to act in</hi> Andrews's <hi>plot and the reſt of them: and whether hee believe's it (ſtill) in truth that</hi> Bernard <hi>and</hi> Pitts <hi>did <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver utter ſuch a thing.</hi>
+            </p>
+            <q>Pam. <hi>That the Letter was brought to</hi> S<hi rend="sup">r</hi> 
+               <hi>Iohn Gell</hi>
+               <pb n="15" facs="tcp:135374:9"/> 
+               <hi>as</hi> Bernard <hi>and</hi> Pitts <hi>on a Saterdaie night after ten of the Clock.</hi>
+            </q>
+            <p>
+               <hi>Anſw.</hi> It is acknowledged that <hi>Bernard</hi> and Capt. <hi>Pitts</hi> did bring <hi>Andrews's</hi> letter (writ at <hi>Graveſend)</hi> to S<hi rend="sup">r</hi> 
+               <hi>Iohn Gell,</hi> to his lodging (then) in the Sanctua<g ref="char:EOLhyphen"/>rie <hi>Weſtminſter,</hi> and did preſent the ſaid Letter to Sr <hi>Iohn Gell's</hi> own hands about eight (not ten) a Clock, Saterdaie night: and what will the Pam<g ref="char:EOLhyphen"/>phletier infer hence?</p>
+            <q>
+               <hi>Pam.</hi> Hear himſef. that M<hi rend="sup">r</hi> 
+               <hi>Spittlehouſ a Meſ<g ref="char:EOLhyphen"/>ſenger, had a warrant the next morning early (beeing the Lords daie) to apprehend</hi> S<hi rend="sup">r</hi> 
+               <hi>Iohn Gell;</hi> All this of this libeller is verie falſ: for neither had M<hi rend="sup">r</hi> 
+               <hi>Spittlehouſ a Warrant the next morning early (beeing the Lords daie),</hi> nor indeed had anie Warrant at all (firſt or laſt) to apprehend Sir <hi>Iohn Gell.</hi> True it is Sir <hi>Iohn Gell</hi> was apprehended by Warrant from the Council of State; but the Pam<g ref="char:EOLhyphen"/>phletier, for haſte, miſtake's the Name, miſtake's the daie; the Warrant was not drawn up till Mundaie morning, <hi>March</hi> 25. 49. And then directed to Captain <hi>Thornton,</hi> and yet not executed by him (neither) till one or two a Clock that daie.</q>
+            <q>Pam. <hi>That it doe's clearly appear that the Lord Preſident was privie to all theſe proceedings.</hi>
+            </q>
+            <p>
+               <hi>An.</hi> This ignorant &amp; malicious Pamphletier muſt konw (unleſs hee and the reſt of them will bee igno<g ref="char:EOLhyphen"/>rant &amp; blinde for all the light) that it is moſt con<g ref="char:EOLhyphen"/>ſiſtent with the dutie of all publick Miniſters of State to bee privie to the treaſonable plots, and
+<pb n="16" facs="tcp:135374:10"/> practices of wicked men againſt the State, ſuch as this of <hi>Andrews</hi> and Sir <hi>Iohn Gell,</hi> and the others of that confederacie. And wee hope it will ope the the Eie of Autoritie wider, and call to more jea<g ref="char:EOLhyphen"/>louſie and watchfulneſs, when the looſ pen of eve<g ref="char:EOLhyphen"/>rie vile Pamphletier ſhall dare to arraign even Juſtice it ſelf, and the publick Adminſtrators of it at the bar of Traitors.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
